@@ -7,7 +7,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 -[MySQL] (https://www.mysql.com) 
 -[NetBeans IDE 8.0.1] (www.netbeans.org.)
 -[JDK 11.0.13] (https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
-para realizar a conecção com o banco de dados também será necessario do:
+para realizar a conexão com o banco de dados também será necessario do:
 
 [mysql-connector-java-5.1.47] (esse item já está disponivel na pasta do repositorio.)
 
